@@ -1,0 +1,39 @@
+Test File #1:
+ - Runtime: 13.273 s
+ - Test combinations already present: 0
+ - Test combinations not present (rating guessed): 10000
+ - Total difference: 6732.739893562742
+ - Average difference: 0.6732739893562741
+ - Root mean square difference: 0.8692604034565113
+
+Test File #2:
+ - Runtime: 11.009 s
+ - Test combinations already present: 0
+ - Test combinations not present (rating guessed): 10000
+ - Total difference: 6731.888628099795
+ - Average difference: 0.6731888628099795
+ - Root mean square difference: 0.8662735227882
+
+Test File #3:
+ - Runtime: 9.668 s
+ - Test combinations already present: 0
+ - Test combinations not present (rating guessed): 10000
+ - Total difference: 6711.724617458878
+ - Average difference: 0.6711724617458878
+ - Root mean square difference: 0.8687444462898352
+
+Test File #4:
+ - Runtime: 9.958 s
+ - Test combinations already present: 0
+ - Test combinations not present (rating guessed): 10000
+ - Total difference: 6743.277485451644
+ - Average difference: 0.6743277485451644
+ - Root mean square difference: 0.875837689486817
+
+Test File #5:
+ - Runtime: 10.606 s
+ - Test combinations already present: 0
+ - Test combinations not present (rating guessed): 10000
+ - Total difference: 6699.926913912941
+ - Average difference: 0.6699926913912941
+ - Root mean square difference: 0.8638076435628601
